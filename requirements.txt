@@ -1,0 +1,6 @@
+streamlit>=1.38
+google-genai>=1.0.0
+PyMuPDF>=1.24
+jsonschema>=4.23
+python-dotenv>=1.0
+pytest>=8.3
